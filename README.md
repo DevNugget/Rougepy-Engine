@@ -2,4 +2,6 @@
 
 **External libraries required**  
 keyboard:    
-`pip install keyboard`
+```
+pip install keyboard
+```
